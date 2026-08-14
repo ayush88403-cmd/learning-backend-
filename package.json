@@ -1,0 +1,16 @@
+{
+  "name": "ayush-backend",
+  "version": "1.0.0",
+  "description": "learning",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "ayush kumar singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
